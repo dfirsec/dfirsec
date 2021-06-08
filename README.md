@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-:pushpin: The projects and scripts I've created are what I consider *"learning exercises"* to further my skillset and keep me motivated.
+:pushpin: The projects and scripts I've created are what I consider *"learning exercises"* to grow my skillset and keep me motivated.
 <!--
 **dfirsec/dfirsec** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
